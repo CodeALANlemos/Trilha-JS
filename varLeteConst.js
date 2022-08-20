@@ -34,7 +34,7 @@ if (forma === 'retângulo') {
 
 // CONSIDERAÇÕES: LET SEMPRE TEM QUE SER DECLARADA ANTES DE SER INICIALIZADA.
 
-//===========================================================
+//============================================================
 
 
 const forma = 'triângulo';
