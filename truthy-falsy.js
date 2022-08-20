@@ -9,6 +9,7 @@ const contaPaga = false;
 // 0 => false;
 // 1 => true;
 
+// =======================
 
 // null ==> vazio ou nada;
 // undefined;
