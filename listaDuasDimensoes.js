@@ -18,4 +18,4 @@ a lista de notas através do índice 1,  mas podemos começar por qualquer ordem
 selecionar, isso através dos indices da lista, começando do 0, no caso selecionamos o índice 2 que se refere ao terceiro elemento da nossa lista de notas 
 que é o 9.
 */
-console.table(listaDeNotasEAlunos)
+console.table(listaDeNotasEAlunos);
